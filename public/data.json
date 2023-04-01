@@ -1,0 +1,43 @@
+[
+    {
+        "id": "1",
+     
+        "title": "How to get your first job as a self-taught programmer",
+        "date": "Mar 14 (4 Days ago)",
+        "image": "https://media.gettyimages.com/id/1150528651/photo/successful-it-developer.jpg?s=2048x2048&w=gi&k=20&c=L6aJVd4gsPzE4w60TFV_qWwU0Js_30tPOJHY_3Y-NGo=",
+        "authorname":"Ahadul",
+        "authorimage":"https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "min":3
+    },
+    {
+        "id": "2",
+     
+        "title": "we are close to Manufacturer service",
+        "date": "Mar 14 (4 Days ago)",
+        "image": "https://media.gettyimages.com/id/616902766/photo/dedicated-to-software-development.jpg?s=2048x2048&w=gi&k=20&c=JuoYctjy-g4YGD9zr9M58j65PtXmlsM5Ol_AkyMtzjg=",
+        "authorname":"Rasel",
+        "authorimage":"https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "min":55
+    },
+    {
+        "id": "3",
+     
+        "title": "Our main Purpose is to develop multidimentional software",
+        "date": "Mar 14 (4 Days ago)",
+        "image": "https://media.gettyimages.com/id/1180183363/photo/coworkers-discussing-computer-program-in-office.jpg?s=612x612&w=gi&k=20&c=A17kDwsoctZ1sVC74zeQr-HrL5fxmAtIvctgeYoxTu4=",
+        "authorname":"Asma",
+        "authorimage":"https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "min":9
+    },
+    {
+        "id": "4",
+     
+        "title": "our high standards and ensure that all our employees",
+        "date": "Mar 14 (4 Days ago)",
+        "image": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+        "authorname":"Rifat",
+        "authorimage":"https://images.unsplash.com/flagged/photo-1573740144655-bbb6e88fb18a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+        "min":20
+    }
+     
+]
